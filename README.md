@@ -1,2 +1,2 @@
 # incentive
-PoA
+Copy the code to Matlab and run.
